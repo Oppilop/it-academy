@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Startup Name Generetor',
+      title: 'Startup Name Generator',
       theme: ThemeData(
         primaryColor: Colors.white,
       ),
@@ -46,8 +46,8 @@ class _RandomWordsState extends State<RandomWords> {
   Widget _buildSuggestions() {
     return ListView.builder(
         padding: const EdgeInsets.all(16.0),
-        itemBuilder: /*1*/ (context, i) {
-          if (i.isOdd) return const Divider(); /*2*/
+        itemBuilder: /*1*/ (context, i) { //construindo um item
+          if (i.isOdd) return const Divider(); /*2*/ //se for impar gera uma divisoria e para
 
           final index = i ~/ 2; /*3*/
           if (index >= _suggestions.length) {
@@ -83,7 +83,6 @@ class _RandomWordsState extends State<RandomWords> {
   void _pushSaved() {
     Navigator.of(context).push(
       MaterialPageRoute<void>(
-        // NEW lines from here...
         builder: (BuildContext context) {
           final tiles = _saved.map(
                 (WordPair pair) {
@@ -106,7 +105,7 @@ class _RandomWordsState extends State<RandomWords> {
             ),
             body: ListView(children: divided),
           );
-        }, // ...to here.
+        },
       ),
     );
   }
