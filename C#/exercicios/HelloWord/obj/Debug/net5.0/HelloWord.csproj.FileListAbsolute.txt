@@ -1,0 +1,16 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Debug\net5.0\HelloWord.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Debug\net5.0\HelloWord.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.dev.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Debug\net5.0\HelloWord.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Debug\net5.0\ref\HelloWord.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Debug\net5.0\HelloWord.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\obj\Debug\net5.0\HelloWord.csproj.AssemblyReference.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\obj\Debug\net5.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfo.cs
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\obj\Debug\net5.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\obj\Debug\net5.0\HelloWord.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\obj\Debug\net5.0\ref\HelloWord.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\obj\Debug\net5.0\HelloWord.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\obj\Debug\net5.0\HelloWord.genruntimeconfig.cache
