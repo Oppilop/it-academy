@@ -1,0 +1,16 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\bin\Debug\net5.0\laboratorio05_grupo.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\bin\Debug\net5.0\laboratorio05_grupo.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\bin\Debug\net5.0\laboratorio05_grupo.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\bin\Debug\net5.0\laboratorio05_grupo.runtimeconfig.dev.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\bin\Debug\net5.0\laboratorio05_grupo.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\bin\Debug\net5.0\ref\laboratorio05_grupo.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\bin\Debug\net5.0\laboratorio05_grupo.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\obj\Debug\net5.0\laboratorio05_grupo.csproj.AssemblyReference.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\obj\Debug\net5.0\laboratorio05_grupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\obj\Debug\net5.0\laboratorio05_grupo.AssemblyInfoInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\obj\Debug\net5.0\laboratorio05_grupo.AssemblyInfo.cs
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\obj\Debug\net5.0\laboratorio05_grupo.csproj.CoreCompileInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\obj\Debug\net5.0\laboratorio05_grupo.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\obj\Debug\net5.0\ref\laboratorio05_grupo.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\obj\Debug\net5.0\laboratorio05_grupo.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio05_grupo\obj\Debug\net5.0\laboratorio05_grupo.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Release\net5.0\publish\HelloWord.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Release\net5.0\publish\HelloWord.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Release\net5.0\publish\HelloWord.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Release\net5.0\publish\HelloWord.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\HelloWord\bin\Release\net5.0\publish\HelloWord.pdb

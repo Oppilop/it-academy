@@ -1,0 +1,16 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\bin\Debug\net5.0\DemoParametros.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\bin\Debug\net5.0\DemoParametros.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\bin\Debug\net5.0\DemoParametros.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\bin\Debug\net5.0\DemoParametros.runtimeconfig.dev.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\bin\Debug\net5.0\DemoParametros.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\bin\Debug\net5.0\ref\DemoParametros.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\bin\Debug\net5.0\DemoParametros.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\obj\Debug\net5.0\DemoParametros.csproj.AssemblyReference.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\obj\Debug\net5.0\DemoParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\obj\Debug\net5.0\DemoParametros.AssemblyInfoInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\obj\Debug\net5.0\DemoParametros.AssemblyInfo.cs
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\obj\Debug\net5.0\DemoParametros.csproj.CoreCompileInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\obj\Debug\net5.0\DemoParametros.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\obj\Debug\net5.0\ref\DemoParametros.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\obj\Debug\net5.0\DemoParametros.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoParametros\obj\Debug\net5.0\DemoParametros.genruntimeconfig.cache

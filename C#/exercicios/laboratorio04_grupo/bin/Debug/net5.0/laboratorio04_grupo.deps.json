@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "laboratorio04_grupo/1.0.0": {
+        "runtime": {
+          "laboratorio04_grupo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laboratorio04_grupo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

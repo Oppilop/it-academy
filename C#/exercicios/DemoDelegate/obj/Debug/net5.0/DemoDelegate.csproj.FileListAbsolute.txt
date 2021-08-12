@@ -1,0 +1,16 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\bin\Debug\net5.0\DemoDelegate.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\bin\Debug\net5.0\DemoDelegate.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\bin\Debug\net5.0\DemoDelegate.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\bin\Debug\net5.0\DemoDelegate.runtimeconfig.dev.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\bin\Debug\net5.0\DemoDelegate.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\bin\Debug\net5.0\ref\DemoDelegate.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\bin\Debug\net5.0\DemoDelegate.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\obj\Debug\net5.0\DemoDelegate.csproj.AssemblyReference.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\obj\Debug\net5.0\DemoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\obj\Debug\net5.0\DemoDelegate.AssemblyInfoInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\obj\Debug\net5.0\DemoDelegate.AssemblyInfo.cs
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\obj\Debug\net5.0\DemoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\obj\Debug\net5.0\DemoDelegate.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\obj\Debug\net5.0\ref\DemoDelegate.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\obj\Debug\net5.0\DemoDelegate.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoDelegate\obj\Debug\net5.0\DemoDelegate.genruntimeconfig.cache

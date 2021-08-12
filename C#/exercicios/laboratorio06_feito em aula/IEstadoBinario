@@ -1,0 +1,11 @@
+namespace laboratorio06
+{
+    public enum EstadoBinario {Ligado, Desligado};
+
+    public interface IEstadoBinario
+    {
+        EstadoBinario Estado {get;}
+        void Ligar();
+        void Desligar();
+    }
+}

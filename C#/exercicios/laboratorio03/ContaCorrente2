@@ -1,0 +1,72 @@
+//Exercicio 01, 02, 03 e 04 - 06/08
+
+using System;
+
+class ContaCorrente {
+	
+	private decimal saldo;
+	private string nome;
+	private DateTime dataCriacao;
+	private int contadorOp = 0;
+	
+	//Construtor
+	public ContaCorrente(decimal val, string titular){
+		//DateTime datacriacao = new DateTime();
+		DateTime dataCriacao = DateTime.Now;
+		saldo = val;
+		nome = titular;
+	}
+	
+	public string Nome{
+		get{ return nome; }
+	}
+	
+	public DateTime DataCriacao{
+		get{ return dataCriacao; }
+	}
+	
+	public decimal Saldo{
+		get{ return saldo; }
+	}
+	
+	public void Depositar(decimal val){
+		saldo += val;
+		contadorOp++;
+	}
+	
+	public void Sacar(decimal val){
+		saldo -= val;
+		contadorOp++;
+	}
+	
+	public decimal CalcularMediaSaldo(){
+		decimal media = saldo /contadorOp;
+		return media;
+	}
+}
+					
+public class Program
+{
+	public static void Main()
+	{
+		ContaCorrente minhaConta = new ContaCorrente(340, "Nicole");
+		
+		Console.WriteLine("============Minha Conta=================");
+		Console.WriteLine("Titular: " + minhaConta.Nome);
+		Console.WriteLine("=====================================");
+		Console.WriteLine("Data de criação da conta: " + minhaConta.DataCriacao);
+		Console.WriteLine("=====================================");
+		
+		Console.WriteLine(minhaConta.Saldo);
+		minhaConta.Depositar(100);
+		
+		Console.WriteLine(minhaConta.Saldo);
+		minhaConta.Sacar(50);
+		minhaConta.Depositar(1000);
+		minhaConta.Sacar(500);
+		Console.WriteLine(minhaConta.Saldo);
+		
+		Console.WriteLine(minhaConta.CalcularMediaSaldo());
+		
+	}
+}
