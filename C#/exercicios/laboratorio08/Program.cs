@@ -15,7 +15,8 @@ public class Program
 		Console.WriteLine(listaStrings[0]);
 		Console.WriteLine(listaStrings[1]);
 		Console.WriteLine(listaStrings[2]);
-		listaStrings.Add("10");*/
+		listaStrings.Add("10");
+		Console.WriteLine(listaStrings[3]);*/
 		
 		//Exercicio 02 - fila de objetos
 		/*Queue<Object> q = new Queue<Object>();
@@ -24,8 +25,9 @@ public class Program
 		q.Enqueue(654.321);
 		Console.WriteLine(q.Dequeue());
 		Console.WriteLine(q.Dequeue());
-		Console.WriteLine(q.Dequeue());*/
-		
+		Console.WriteLine(q.Dequeue());
+		Console.WriteLine(q.Count);*/
+
 		/*Queue<int> minhaFila = new Queue<int>();
 		minhaFila.Enqueue(10);
 		minhaFila.Enqueue(200);
@@ -41,7 +43,8 @@ public class Program
 		paises[55] = "Brasil";
 		Console.WriteLine("O código 55 é: {0}", paises[55]);
 		
-		foreach(KeyValuePair<int, string> item in paises){
+		foreach(KeyValuePair<int, string> item in paises)
+		{
 			int codigo = item.Key;
 			string pais = item.Value;
 			Console.WriteLine("Código {0} = {1}", codigo, pais);
@@ -50,40 +53,38 @@ public class Program
 		foreach(KeyValuePair<int, string> item in paises){
 			int codigo = item.Key;
 			string pais = item.Value;
-			if("Reino Unidade" == pais){
+			if("Reino Unido" == pais){
 				Console.WriteLine("O código é " + codigo);
 			}
 		}*/
 		
-		/*List<double> listareais = new List<double> {1.5, 2, 5.5, 4, 5.6};
-		List<double> listareais2 = new List<double> {7,55,8.3,49,128,2,10.6};
-		List<double> listamedia = new List<double> {};
+		List<dynamic> listareais = new List<dynamic> {1.5, 2, 5.5, 4, 5.6};
+		List<dynamic> listareais2 = new List<dynamic> {7,55,8.3,49,128,2,10.6};
+		List<dynamic> listamedia = new List<dynamic>();
 	
 	
-		//Console.WriteLine(Program.TotalAcimaMedia(listareais));
-		//Console.WriteLine(Program.TotalAcimaMedia(listareais2));	
+		Console.WriteLine(Program.TotalAcimaMedia(listareais));
+		Console.WriteLine(Program.TotalAcimaMedia(listareais2));	
 	
 		listamedia = Program.ListaAcimaMedia(listareais);
-		foreach(double item in listamedia){
-			Console.WriteLine(item);
+		foreach(double item in listamedia)
+		{
+			Console.WriteLine("Listareais: " + item);
 		}
-	}	
 
-	public static int TotalAcimaMedia(List<double> lista){
-		double soma = 0;
-		int contador = 0;
-		double media;
+		listamedia = Program.ListaAcimaMedia(listareais2);
+		foreach(double item in listamedia)
+		{
+			Console.WriteLine("Listareais2: " + item);
+		}
+	}
+
+	//lista que retorna o número de elementos acima da média
+	public static int TotalAcimaMedia(List<dynamic> lista){
+		
+		double media = calculaMediaDeLista(lista);
 		int contadorAcimaMedia = 0;
 
-		foreach(double item in lista){
-			soma  += item;
-			contador++;
-		}
-
-		media = soma / contador;
-
-		//Console.WriteLine(media);
-		
 		foreach(double item in lista){
 			if(item > media){
 				contadorAcimaMedia++;
@@ -93,32 +94,38 @@ public class Program
 		return contadorAcimaMedia;
 	}
 	
+
+	//visibilidade, static, retorno, nome método, parametro ou argumentos
+	public static List<dynamic> ListaAcimaMedia(List<dynamic> lista)
+	{
+		
+		double media = calculaMediaDeLista(lista);
 	
-	
-	public static List<double> ListaAcimaMedia(List<double> lista){
-		double soma = 0;
-		int contador = 0;
-		double media;
-		int contadorAcimaMedia = 0;
-		List<double> listaMedia = new List<double>{};
-
-		foreach(double item in lista){
-			soma  += item;
-			contador++;
-		}
-
-		media = soma / contador;
-
-		//Console.WriteLine(media);
+		List<dynamic> listaMedia = new List<dynamic>{};
 		
 		foreach(double item in lista){
 			if(item > media){
 				listaMedia.Add(item);
 			}
 		}
-
-		return listaMedia;*/
+		return listaMedia;
 	}
 	
-	
-}		
+	//método para calcular média
+	public static double calculaMediaDeLista(List<dynamic> lista)
+	{
+		double soma = 0;
+		int contador = 0;
+		double media;
+		
+		foreach(double item in lista){
+			soma += item;
+			contador++;
+		}
+
+		media = soma / contador;
+
+		return media;
+	}
+}	
+		

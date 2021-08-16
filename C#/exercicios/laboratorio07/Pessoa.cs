@@ -1,35 +1,35 @@
 using System;
-using System.Collections.Generic;
-
-namespace laboratorio07
-{
-    //implementação da interface Icomparable para classificação generalizada
-    //"O objeto a ser classificado implementará IComparable, enquanto a classe que irá ordenar os objetos implementará o IComparer."
-    public class Pessoa : IComparable<Pessoa>
+public class Pessoa : IComparable<Pessoa>
+{ 
+    private string meuNome; 
+    private int minhaIdade; 
+    private bool comparador = true;
+    public Pessoa(string n, int i, bool c = true)
     {
-        //declarando atributos e já adicionando as propriedades?
-        public string Nome {get; set;}
-        public int Idade {get; set;}
-
-        //método comparador com condição para a idade
-        public int CompareTo(Pessoa outra)
-        {
-            if (Nome.CompareTo(outra.Nome) == 0)
-            {
-                return Idade.CompareTo(outra.Idade);
-            }
-            return Nome.CompareTo(outra.Nome);
-
-        }
+        comparador = c;
+        meuNome = n; 
+        minhaIdade = i; 
+    } 
+    public string Nome
+    { 
+        get{ return meuNome; } 
+    } 
+    public int Idade
+    {
+         get{ return minhaIdade; } 
+         set{ minhaIdade = value; } 
     }
-    
-    //"O objeto a ser classificado implementará IComparable, enquanto a classe que irá ordenar os objetos implementará o IComparer."
-    public class PessoaComparadorIdade : IComparer<Pessoa>
-    {
-        public int Compare(Pessoa x, Pessoa y)
+
+    //método da interface Icomparable
+    public int CompareTo(Pessoa outro)
+    { 
+        if (comparador)
         {
-        //compara por idade
-        return x.Idade.CompareTo(y.Idade);
+            return minhaIdade.CompareTo(outro.minhaIdade);
+        } 
+        else 
+        {
+            return meuNome.CompareTo(outro.meuNome);
         }
     }
 }

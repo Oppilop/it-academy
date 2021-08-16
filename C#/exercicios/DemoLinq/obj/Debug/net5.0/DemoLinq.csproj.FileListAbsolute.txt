@@ -1,0 +1,16 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\bin\Debug\net5.0\DemoLinq.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\bin\Debug\net5.0\DemoLinq.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\bin\Debug\net5.0\DemoLinq.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\bin\Debug\net5.0\DemoLinq.runtimeconfig.dev.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\bin\Debug\net5.0\DemoLinq.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\bin\Debug\net5.0\ref\DemoLinq.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\bin\Debug\net5.0\DemoLinq.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\obj\Debug\net5.0\DemoLinq.csproj.AssemblyReference.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\obj\Debug\net5.0\DemoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\obj\Debug\net5.0\DemoLinq.AssemblyInfoInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\obj\Debug\net5.0\DemoLinq.AssemblyInfo.cs
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\obj\Debug\net5.0\DemoLinq.csproj.CoreCompileInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\obj\Debug\net5.0\DemoLinq.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\obj\Debug\net5.0\ref\DemoLinq.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\obj\Debug\net5.0\DemoLinq.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoLinq\obj\Debug\net5.0\DemoLinq.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\obj\Debug\net5.0\DemoAsync2.csproj.AssemblyReference.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\obj\Debug\net5.0\DemoAsync2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\obj\Debug\net5.0\DemoAsync2.AssemblyInfoInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\obj\Debug\net5.0\DemoAsync2.AssemblyInfo.cs
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\obj\Debug\net5.0\DemoAsync2.csproj.CoreCompileInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\bin\Debug\net5.0\DemoAsync2.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\bin\Debug\net5.0\DemoAsync2.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\bin\Debug\net5.0\DemoAsync2.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\bin\Debug\net5.0\DemoAsync2.runtimeconfig.dev.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\bin\Debug\net5.0\DemoAsync2.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\bin\Debug\net5.0\ref\DemoAsync2.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\bin\Debug\net5.0\DemoAsync2.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\obj\Debug\net5.0\DemoAsync2.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\obj\Debug\net5.0\ref\DemoAsync2.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\obj\Debug\net5.0\DemoAsync2.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\DemoAsync2\obj\Debug\net5.0\DemoAsync2.genruntimeconfig.cache

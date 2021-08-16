@@ -14,6 +14,7 @@ namespace laboratorio05
         public decimal Saldo
         {
             get {return saldo;}
+            set {saldo = value;}
         }
 
         public string Titular

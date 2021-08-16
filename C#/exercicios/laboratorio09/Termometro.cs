@@ -5,7 +5,7 @@ namespace laboratorio09
         //atributos
         private double valor;
 
-        //construtor
+        //construtor sem parametros
         public Termometro()
         {
             valor = 0.0;
@@ -18,7 +18,7 @@ namespace laboratorio09
             set {valor = value;}
         }
 
-        //métodos com sobrecarga
+        //métodos com possibilidade de sobrecarga
         virtual public void Aumentar()
         {
             valor += 0.1;

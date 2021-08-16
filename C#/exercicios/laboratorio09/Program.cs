@@ -12,9 +12,16 @@ namespace laboratorio09
 
             // adiciona um tratador ao evento LimiteSuperiorEvent
             term.LimiteSuperiorEvent += new TermometroLimite.MeuDelegate(TrataLimiteSuperior);
+            term.TemperaturaNormalEvent += new TermometroLimite.MeuDelegate(TrataLimiteSuperior);
 
             // aumentar a temperatura além do limite
-            term.Aumentar(6);
+            term.Aumentar(4);
+            Console.WriteLine(term.ToString());
+            term.Diminuir(2);
+            Console.WriteLine(term.ToString());
+            term.Aumentar(5);
+            Console.WriteLine(term.ToString());
+            term.Aumentar(5);
             Console.WriteLine(term.ToString());
 
         }

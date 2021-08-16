@@ -37,6 +37,13 @@ namespace laboratorio05
         public override string Id 
         {
             get { return this.Titular + "(CP)";}
+            
+        }
+
+        public override string ToString()
+        {
+            return "ID: " + this.Id + "\nSaldo: " + this.Saldo + "\nTaxa Juros: " + taxaJuros;
+            
         }
     }
 }

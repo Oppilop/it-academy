@@ -1,0 +1,16 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\bin\Debug\net5.0\LinqProfWilliamMenezes.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\bin\Debug\net5.0\LinqProfWilliamMenezes.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\bin\Debug\net5.0\LinqProfWilliamMenezes.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\bin\Debug\net5.0\LinqProfWilliamMenezes.runtimeconfig.dev.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\bin\Debug\net5.0\LinqProfWilliamMenezes.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\bin\Debug\net5.0\ref\LinqProfWilliamMenezes.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\bin\Debug\net5.0\LinqProfWilliamMenezes.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\obj\Debug\net5.0\LinqProfWilliamMenezes.csproj.AssemblyReference.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\obj\Debug\net5.0\LinqProfWilliamMenezes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\obj\Debug\net5.0\LinqProfWilliamMenezes.AssemblyInfoInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\obj\Debug\net5.0\LinqProfWilliamMenezes.AssemblyInfo.cs
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\obj\Debug\net5.0\LinqProfWilliamMenezes.csproj.CoreCompileInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\obj\Debug\net5.0\LinqProfWilliamMenezes.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\obj\Debug\net5.0\ref\LinqProfWilliamMenezes.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\obj\Debug\net5.0\LinqProfWilliamMenezes.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\LinqProfWilliamMenezes\obj\Debug\net5.0\LinqProfWilliamMenezes.genruntimeconfig.cache

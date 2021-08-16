@@ -1,0 +1,16 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\obj\Debug\net5.0\laboratorio10.csproj.AssemblyReference.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\obj\Debug\net5.0\laboratorio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\obj\Debug\net5.0\laboratorio10.AssemblyInfoInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\obj\Debug\net5.0\laboratorio10.AssemblyInfo.cs
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\obj\Debug\net5.0\laboratorio10.csproj.CoreCompileInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\bin\Debug\net5.0\laboratorio10.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\bin\Debug\net5.0\laboratorio10.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\bin\Debug\net5.0\laboratorio10.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\bin\Debug\net5.0\laboratorio10.runtimeconfig.dev.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\bin\Debug\net5.0\laboratorio10.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\bin\Debug\net5.0\ref\laboratorio10.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\bin\Debug\net5.0\laboratorio10.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\obj\Debug\net5.0\laboratorio10.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\obj\Debug\net5.0\ref\laboratorio10.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\obj\Debug\net5.0\laboratorio10.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\laboratorio10\obj\Debug\net5.0\laboratorio10.genruntimeconfig.cache

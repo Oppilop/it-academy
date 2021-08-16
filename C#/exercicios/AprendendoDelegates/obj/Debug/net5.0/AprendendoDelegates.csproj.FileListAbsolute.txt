@@ -1,0 +1,16 @@
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\bin\Debug\net5.0\AprendendoDelegates.exe
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\bin\Debug\net5.0\AprendendoDelegates.deps.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\bin\Debug\net5.0\AprendendoDelegates.runtimeconfig.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\bin\Debug\net5.0\AprendendoDelegates.runtimeconfig.dev.json
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\bin\Debug\net5.0\AprendendoDelegates.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\bin\Debug\net5.0\ref\AprendendoDelegates.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\bin\Debug\net5.0\AprendendoDelegates.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\obj\Debug\net5.0\AprendendoDelegates.csproj.AssemblyReference.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\obj\Debug\net5.0\AprendendoDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\obj\Debug\net5.0\AprendendoDelegates.AssemblyInfoInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\obj\Debug\net5.0\AprendendoDelegates.AssemblyInfo.cs
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\obj\Debug\net5.0\AprendendoDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\obj\Debug\net5.0\AprendendoDelegates.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\obj\Debug\net5.0\ref\AprendendoDelegates.dll
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\obj\Debug\net5.0\AprendendoDelegates.pdb
+C:\Users\Nicole_Polippo\Documents\Github\it-academy\C#\exercicios\AprendendoDelegates\obj\Debug\net5.0\AprendendoDelegates.genruntimeconfig.cache
