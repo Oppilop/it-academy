@@ -7,7 +7,7 @@ namespace laboratorio07
     //"O objeto a ser classificado implementará IComparable, enquanto a classe que irá ordenar os objetos implementará o IComparer."
     public class Pessoa : IComparable<Pessoa>
     {
-        //declarando atributos e já adicionando as propriedades?
+        //declarando atributos e já adicionando as propriedades
         public string Nome {get; set;}
         public int Idade {get; set;}
 
